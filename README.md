@@ -1,2 +1,7 @@
-# havenup-3d
-HAVENUP Folding Dog Ramp - interactive 3D model
+# HAVENUP Folding Dog Ramp
+
+Interactive 3D model of the HAVENUP folding dog ramp.
+
+View it here: https://leonides600.github.io/havenup-3d/
+
+LeoVisual.nl
